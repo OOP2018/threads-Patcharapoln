@@ -1,4 +1,8 @@
-
+/**
+ * Subtract number from 1 to limit to Counter.
+ * @author Patcharapol Nirunpornputta
+ *
+ */
 public class SubtractTask implements Runnable{
 	private Counter counter;
 	private int limit;
